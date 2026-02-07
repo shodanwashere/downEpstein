@@ -1,4 +1,8 @@
-# downEpstein
+```
+     __   __                ___  __   __  ___  ___
+    |  \ /  \ |  | |\ |    |__  |__) /__`  |  |__  | |\ |
+    |__/ \__/ |/\| | \|    |___ |    .__/  |  |___ | | \|
+```
 a downloader for the Epstein Files.
 
 heavily inspired on and works off of the work from Surebob's [epstein-files-downloader](https://github.com/Surebob/epstein-files-downloader).
